@@ -1,6 +1,7 @@
 ## 📖 Introduction [English](README_EN.md) | [中文](README.md)
 
-**UPay** is an enterprise-grade cryptocurrency card issuance and payment management system. It is designed to help businesses quickly build their own crypto card distribution platform, supporting bulk virtual card issuance, automatic USDT deposits, real-time fiat settlement, and a complete agent distribution system.
+**UcardPay** is a cryptocurrency card issuance and payment management system. It is designed to help you quickly build your own crypto card distribution platform, supporting bulk issuance of Visa/Mastercard virtual and physical cards, automatic USDT deposits, real-time fiat settlement, and a complete agent distribution system.
+Similar to crypto card projects like THPAY / WildCard.
 
 ## ✨ Key Features
 
@@ -28,7 +29,7 @@
 
 ---
 
-**UPay** is a digital wallet and card issuance service platform (Virtual/Physical Crypto Card Platform, Crypto Wallet, similar to Alipay).
+**UcardPay** is a digital wallet and card issuance service platform (Virtual/Physical Crypto Card Platform, Crypto Wallet, similar to Alipay).
 
 1. **Core Service**: Primarily provides Visa / MasterCard virtual and physical card services to users.
 
@@ -46,7 +47,6 @@
 
 8. **Dual Clients**: Available for both Android and iOS.
 
----
 
 - **Telegram**: For commercial source code, please contact [@Bannedoo](https://t.me/Bannedoo)
 
